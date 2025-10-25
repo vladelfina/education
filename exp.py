@@ -1,3 +1,5 @@
+# Whoever takes the last stone loses
+
 def main():
     stones = 20
     print("There are 20 stones left.")
